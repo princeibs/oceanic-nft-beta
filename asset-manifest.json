@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/oceanic-nft-beta/static/css/main.afcf79d1.chunk.css",
+    "main.js": "/oceanic-nft-beta/static/js/main.5f2e0d87.chunk.js",
+    "main.js.map": "/oceanic-nft-beta/static/js/main.5f2e0d87.chunk.js.map",
+    "runtime-main.js": "/oceanic-nft-beta/static/js/runtime-main.1833a781.js",
+    "runtime-main.js.map": "/oceanic-nft-beta/static/js/runtime-main.1833a781.js.map",
+    "static/js/2.f5489d98.chunk.js": "/oceanic-nft-beta/static/js/2.f5489d98.chunk.js",
+    "static/js/2.f5489d98.chunk.js.map": "/oceanic-nft-beta/static/js/2.f5489d98.chunk.js.map",
+    "index.html": "/oceanic-nft-beta/index.html",
+    "static/css/main.afcf79d1.chunk.css.map": "/oceanic-nft-beta/static/css/main.afcf79d1.chunk.css.map",
+    "static/js/2.f5489d98.chunk.js.LICENSE.txt": "/oceanic-nft-beta/static/js/2.f5489d98.chunk.js.LICENSE.txt",
+    "static/media/empty_shelve.1708fa93.jpg": "/oceanic-nft-beta/static/media/empty_shelve.1708fa93.jpg",
+    "static/media/eth-icon.abaeb0f7.png": "/oceanic-nft-beta/static/media/eth-icon.abaeb0f7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1833a781.js",
+    "static/js/2.f5489d98.chunk.js",
+    "static/css/main.afcf79d1.chunk.css",
+    "static/js/main.5f2e0d87.chunk.js"
+  ]
+}
