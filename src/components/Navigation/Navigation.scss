@@ -1,0 +1,70 @@
+.app__nav {
+  background-color: rgb(171, 69, 122);
+  margin: 0px;
+  display: flex;
+  align-items: flex-end;
+  height: 150px;
+}
+
+.app__nav-logo {
+  font-size: 4rem;
+  padding: 1rem;
+  margin: .5rem;
+  margin-left: 1rem;
+  font-family: 'Satisfy', cursive;
+  background-color: white;
+  border-radius: 15px;  
+  color:  rgb(171, 69, 122);  
+}
+
+.app__nav-links {
+  margin-right: auto;
+  margin-left: 4rem;
+  margin-bottom: 1.3rem;
+  display: flex;  
+
+  .links a {
+      text-decoration: none;
+      font-size: 1.2rem;
+      padding: 5px;
+      margin: 0 1rem;
+      cursor: pointer;
+      color: white;
+
+      &:hover {
+        color: black;
+      }
+  }
+}
+
+.app__nav-profile .profile-true {
+  margin: 1rem 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .profile-address {
+    cursor: pointer;
+    background-color: black;
+    color: white;
+    padding: 3px 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .profile-icon {
+    cursor: pointer;
+    margin-bottom: 5px;    
+  }
+}
+
+.app__nav-profile .profile-false {
+  cursor: pointer;
+  background-color: green;
+  color: white;
+  padding: .5rem 1rem;
+  margin: 1rem;
+  border-radius: 10px;
+}

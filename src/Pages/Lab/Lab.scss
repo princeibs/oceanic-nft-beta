@@ -1,0 +1,84 @@
+.app__lab {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  padding: 1.3rem;
+}
+
+.app__lab-title {
+  font-size: 1.8rem;
+  margin-left: 1rem;
+}
+
+.lab-form {
+  width: 600px;
+  min-height: 810px;  
+  border: solid 1px gray;
+  margin: 1rem;
+  border-radius: 10px;
+  background-color: rgba(88, 0, 126, 0.718);
+
+  .form-subtitle {
+    font-size: 1.3rem;
+    padding-left: .7rem;
+  }
+
+  .form-div {
+    width: 100%;
+    background-color: rgba(174, 174, 174, 0.361);
+    margin: 1rem 0;
+    border-radius: 5px;
+    height: 100px;
+
+    .form-title {
+      font-size: 1.2rem;
+      padding: 10px 0 5px 10px;
+    }
+
+    input {
+      height: 30px;
+      width: 589px;
+      outline: none;
+      border-color: rgba(128, 128, 128, 0.36);
+      font-size: 1.1rem;
+      padding-left: 7px;
+      font-family: inherit;     
+    }
+  }
+}
+
+.lab-form-bottom {
+  display: flex;
+  justify-content: flex-end;
+
+  .close-btn {
+    font-size: 1.3rem;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    padding: 7px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+
+    &:active {
+      background-color: rgb(94, 94, 94);
+    }
+  }
+
+  .mint-btn {
+    font-size: 1.3rem;
+    margin: 10px;
+    background-color: black;
+    color: white;
+    padding: 7px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+
+    &:active {
+      background-color: rgb(94, 94, 94);
+    }
+  }
+}

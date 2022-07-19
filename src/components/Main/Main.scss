@@ -1,0 +1,15 @@
+.app__main {
+  min-height: 90vh;
+  padding: 2rem;
+}
+
+.app__main-title {
+  font-size: 1.8rem;
+  margin-left: 1rem;
+}
+
+.app__main-items {
+  padding-top: 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+}
